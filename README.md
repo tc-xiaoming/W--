@@ -1,6 +1,6 @@
 # W--
 win下的简单web信息收集集合工具
-使用Python3.7开发
+使用Python3.7开发，当前为Windows运行版本
 请自行pip安装相关依赖：requests，collections等
 使用方法：
 python main.py http://www.baidu.com
